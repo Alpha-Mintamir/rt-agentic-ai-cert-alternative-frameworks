@@ -53,4 +53,4 @@ python chat_completions.py
 
 - Make sure your API key is valid and you have access to the required OpenAI models.
 - See each script for specific usage details and example prompts.
-- The `data/` folder is intended for storing sample or user-provided files (such as audio for transcription). Create it if it does not exist.
+- The `data/` folder is intended for storing sample or user-provided files (such as audio for transcription). 
